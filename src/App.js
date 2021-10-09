@@ -52,7 +52,7 @@ function App() {
               </div>
 
               {/* Buttons */}
-              <CardActions sx={{ display: 'flex', flexDirection: 'column', marginTop: 10, marginBottom: -3,}}>
+              <CardActions sx={{ display: 'flex', flexDirection: 'column', marginTop: 5, marginBottom: -3,}}>
                 <Button fontWeight="900" variant="contained" sx={{ color: '#fff', backgroundColor: '#382AE1', paddingX: 13, paddingY: 2, fontSize: 12 }}>Proceed to Payment</Button>
                 <Button variant="text" className="as" sx={{ color: 'gray' }}>Cancel Order</Button>
               </CardActions>
