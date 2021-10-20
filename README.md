@@ -1,2 +1,3 @@
 # Order-Summary-Modal
-order summary popup/modal page using React and Material UI
+An Order Summary popup/modal page using React and Material UI
+![Imgur](https://imgur.com/dL7EIy1.png)
